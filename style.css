@@ -1,0 +1,94 @@
+body{
+  margin: 0%;
+}
+section{
+  height: 500px;
+  padding-bottom: 130px;
+}
+.width{
+width: 40%;
+float: left;
+padding-left: 2%;
+margin-left: 6%;
+padding-top: 4%;
+}
+h1{
+  font-family: Poppins;
+  font-weight: bold;
+  color: rgb(139, 3, 192);
+  font-size: 30px;
+}
+h2{
+  font-family: Poppins;
+  font-weight: bold;
+  color: black;
+  font-size: 20px;
+}
+.see{
+  text-decoration: none;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: orange;
+  padding: 3px 7px;
+  color: white;
+  background-image: linear-gradient( 45deg, rgba(241, 151, 67, 0.89), rgb(165, 11, 185));
+}
+.width img{
+  width: 100%;
+}
+
+.top{
+  
+  background-image: url(images/header-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.mid{
+ 
+  background-image: url(images/biography-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.bot{
+ 
+  background-image: url(images/latest-work-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ft{
+  
+  background-image: url(images/footer-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.width1{
+  width: 20%;
+  float: left;
+  padding-left: 4%;
+  margin-left: 7%;
+  padding-top: 6%;
+  }
+
+  .width1 img{
+    width: 90%;
+  }
+
+  .wd{
+    width: 40%;
+    float: center;
+    padding-left: 30%
+
+  }
+
+.ct{
+   background-color: orange;
+   padding: 20px;
+   border-radius: 5px ;
+   color: white;
+  }
